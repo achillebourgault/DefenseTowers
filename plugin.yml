@@ -1,0 +1,9 @@
+name: DefenseTowers
+main: fr.achillebourgault.defensetowers.Main
+version: 1.6
+author: achillebourgault
+api-version: 1.16
+commands:
+   tower:
+      description: Defense Tower
+      usage: /<command> help
